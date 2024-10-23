@@ -12,4 +12,4 @@ Currently, two official plugins are available:
 This code runs a simple frontend application of a stock management of products with different categories. 
 No database required once it is saved on Local Storage, just to set an example.
 
-Made with <i class="fa-brands fa-react"></i> + <i class="fa-brands fa-js"></i> + Vite
+Made with React + Javascript + Vite
